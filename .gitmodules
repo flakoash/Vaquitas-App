@@ -1,0 +1,6 @@
+[submodule "vaquitas.front"]
+	path = vaquitas.front
+	url = https://github.com/flakoash/vaquitas.front.git
+[submodule "vaquitas.back"]
+	path = vaquitas.back
+	url = https://github.com/flakoash/vaquitas.back.git
